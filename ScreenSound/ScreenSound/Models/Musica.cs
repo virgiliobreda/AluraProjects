@@ -1,7 +1,7 @@
-﻿using ScreenSound;
+﻿using ScreenSound.Models;
 using System;
 
-public class Musica
+internal class Musica
 {
     public Musica(Banda artista, string nome)
     {
